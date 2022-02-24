@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several laws and orders made at the General Court holden at Boston the twenty seventh of May, 1674</title>
+            <title>Laws, etc.</title>
+            <author>Massachusetts.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50077</idno>
+            <idno type="STC">Wing M1022A</idno>
+            <idno type="STC">ESTC W7847</idno>
+            <idno type="EEBO-CITATION">12767336</idno>
+            <idno type="OCLC">ocm 12767336</idno>
+            <idno type="VID">93609</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93609)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several laws and orders made at the General Court holden at Boston the twenty seventh of May, 1674</title>
+                  <title>Laws, etc.</title>
+                  <author>Massachusetts.</author>
+               </titleStmt>
+               <extent>11 [i.e. 13]-15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green,</publisher>
+                  <pubPlace>[Cambridge [Mass.] :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Appears in an edition of Massachusetts. The general laws and liberties. Boston, 1672.</note>
+                  <note>"And printed by their order, Edward Rawson Secret."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Massachusetts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:93609:1"/>
+            <pb n="11" facs="tcp:93609:1" rendition="simple:additions"/>
+            <head>Several LAWS and ORDERS Made at the <hi>GENERAL COURT</hi> Holden at Boſton the twenty ſeventh of May <hi>1674.</hi>
+And Printed by their Order,<lb/>
+Edward Rawſon Secret.</head>
+            <head type="sub">Judgements fruſtrated by Perſons.</head>
+            <p>
+               <hi>WHERE AS in the Lovying of Executions, there have fallen our many Difficultyes whereby the Judgements obtained,</hi>
+               <note place="margin">Judgements fruſtrated by perſons. Tendring goods, Lands, &amp; not their own, howe to be made good.</note> 
+               <hi>have been made fruſtrate; For the prevention whereof;</hi>
+            </p>
+            <p>The Court do h Order and Declare; Where any Execution ſhall be Levyed on any Houſes, Lands and Goods, and delivered to the Parties for whom the Judgement was granted, and the ſaid Execution returned according to Law; if it ſhall appear the Perſon whoſe Lands, Goods or Houſes were levyed by Execution, have affirmed, or delivered, or tendred the ſaid Goods, Lands or Houſes as his own, which in reality
+<pb n="14" facs="tcp:93609:2"/>were not his own proper Eſtate, and in the ſome condition of Eſtate as he did tender them either to the Officer or Parties for whom the Execution is levyed, ſuch perſon ſo endeavouring by ſuch Action to delude the Law and defraud the Creditor, ſhall be liable to pay double damages to the party grieved, and Pay ſuch fine as the County Court ſhall ſee cauſe to impoſe.</p>
+            <p>And of any party that hath obtained an Execution, ſhall adventure to levy the ſame upon Lands, Houſes or Goods, commonly accunted the Houſes Lands or Goods of the perſon againſt whom the Judgement was granted, and the Execution be returned according to Law, if it afterwards appear, the ſaid Houſes Lends or Goods were not the Houſes, <note place="margin">County Co &amp;c. to renew Execu<g ref="char:EOLhyphen"/>tions in Caſe &amp;c.</note> Lands or Goods of the ſaid Parties againſt whom the Judgement was given, the party that was ſo miſtaken making the ſame to appear to the Court that granted the Judgement, the ſaid Court ſhall Order a new Execution for the ſatisfying of the Judgement not<g ref="char:EOLhyphen"/>withſtanding the former Execution returned.</p>
+            <p>
+               <hi>VVHereas it is of great moment in the Administration of Justice, that all matters of Records, ſhould be ſaith fully Entred and kept, and a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> occaſion is, given forth;</hi>
+            </p>
+            <p>
+               <note place="margin">Clerk of Courts &amp; Recorders to be Sworn.</note>It is Ordered and Enacted by the Authority of this Court: That from henceforth the ſeveral Clerks or Recorders of the publick Courts of Juſtice, and the Recorders of the ſeveral Counties in this Jurisdiction ſhall be Sworn by the Courts to which they belong, unto the faithful diſcharge of their Of<g ref="char:EOLhyphen"/>fice in all reſpects, and that the form of the Oath be as followeth:</p>
+            <p>
+               <q>
+                  <note place="margin">Their O<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th.</note>Whereas you A. B. are appointed Clerk of the County Court of C. You do Swear by the Everliving God, that you will faithfully and uprightly demean your ſelf in the ſaid Office: you ſhall truly and fairly Enter and Record all Acts and Judgements of the ſaid Court, and whatever you ſhall receive Order and direction from the ſaid Court to do, you ſhall ſafely and faithfully keep and preſerve the ſaid Re<g ref="char:EOLhyphen"/>cords, and deliver Executions, Decrees or Orders to Perſons concerned as in duty you ought, and true Copies of ſuch Records give forth when regularly called ſo to do, and in all things you ſhall be faithful and true to the Court: So help you God, &amp;c.</q>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:93609:2"/>
+               <hi>THe Law having Provided for Holding of County Courts, where <hi>Magiſtrates</hi>are wanting, by ſuch perſons of worth <hi>(ſtiled Aſſociates)</hi> as the Freemen of ſuch Counties ſhould Nominate, being allowed and appointed by the General Court; And there having been too great a neglect of certifying the <hi>General Court,</hi> the Names of the perſons ſo nominated, for their confirmation and appoint<g ref="char:EOLhyphen"/>ing ſuch Perſons the Aſſociates for that County.</hi>
+            </p>
+            <p>This Court doth hereby remit former neglects herein; And do Declare, That notwithſtanding ſuch Omiſſions, all former Acts of County Courts ſhall be accounted good and valid: And for time to come, do further Declare and Order, That in all Counties where Aſſociates are to be appointed, <note place="margin">Aſſociates of Courts how to be choſen and when to be Sworn &amp;c.</note> the Freemen ſhall make their Nomination of ſuch Aſſociates at the ſame time yearly when they give in their Nominations for Magiſtrates, which Votes for Nomination of Aſſociates ſhall be carried alſo by the ſame Commiſſioners of the ſeveral Towns, ſealed up to their Shire meeting, there to be opened, and thoſe four perſons that ſhall have the moſt Votes ſhall be certified under the hands of three of the ſaid Commiſſioners, the Shire Commiſſioner being one, to the Court of Election yearly: For the confirmation and Approbation of the ſaid Aſſociates, which being obtained, the Secretary ſhall certify the Clerk of the County Court thereof, who ſhall give notice to ſuch Aſſociates to appear at their next County Court there to take their reſpective Oaths.</p>
+            <p>
+               <hi>THis Court accounting it their Duty by all due means to prevent appearance of ſir and wickedneſs in any kinde:</hi>
+            </p>
+            <p>Do order; That henceforth it ſhall not be lawful for any ſingle Woman or Wiſe in the abſence of her Husband, to entertain or lodge any In-mate or So<g ref="char:EOLhyphen"/>journer with the diſlike of the Select men of the Town, or Magiſtrate, or Com<g ref="char:EOLhyphen"/>miſſioners, who may have cognizance thereof, on penalth of <hi>five pounds per</hi> week on conviction thereof before any Court or Magiſtrate, or be corporally puniſhed, not exceeding <hi>ten ſtripes;</hi> And all Conſtables are to take cognizance hereof for information in ſuch caſes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
